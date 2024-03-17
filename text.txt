@@ -1,0 +1,10 @@
+install taildwin - done
+navbar
+lading page
+marquee
+about
+playful
+cards
+card 2
+Ready to start the project
+footer
